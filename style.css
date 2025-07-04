@@ -1,0 +1,70 @@
+QPushButton {
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    border: 1px solid #1e7e34;
+    font-weight: bold;
+    padding: 20px 0px;
+    transition: all 0.2s;
+}
+
+#AMupgradeButton {
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    border: 1px solid #1e7e34;
+    font-weight: bold;
+    padding: 20px 0px;
+    transition: all 0.2s;
+}
+
+#open_leaderbord_Button {
+    background-color: #ff0000;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 14px;
+    border: 1px solid #1e7e34;
+    font-weight: bold;
+    padding: 20px 0px;
+    transition: all 0.2s;
+}
+
+QPushButton#lupgradeButton:hover,
+QPushButton#cupgradeButton:hover,
+QPushButton#AupgradeButton:hover,
+QPushButton#AMupgradeButton:hover,
+QPushButton#tcdbButton:hover {
+    background-color: #218838;
+}
+
+QPushButton#lupgradeButton:pressed,
+QPushButton#cupgradeButton:pressed,
+QPushButton#AupgradeButton:pressed,
+QPushButton#AMupgradeButton:pressed,
+QPushButton#tcdbButton:pressed {
+    background-color: #1e7e34;
+    padding-left: 2px;
+    padding-top: 2px;
+}
+
+QPushButton#clickButton {
+    background-color: #FFBB00;
+    border-radius: 5px;
+    height: 20px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+    border: 1px solid #b38f00;
+}
+
+QPushButton#clickButton:hover {
+    background-color: #ffcc33;
+}
+
+QPushButton#clickButton:pressed {
+    background-color: #e6aa00;
+    padding-left: 2px;
+    padding-top: 2px;
+}

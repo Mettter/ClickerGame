@@ -1,0 +1,1025 @@
+{
+  "ambient.end.additions": {
+    "sounds": [
+      {
+        "name": "endlessabyss:ambient/end/additions/long_winds",
+        "pitch": 0.9
+      }
+    ]
+  },
+  "ambient.end.loop": {
+    "sounds": [
+      "endlessabyss:ambient/end/loop/hum"
+    ]
+  },
+  "ambient.end.mood": {
+    "sounds": [
+      {
+        "name": "endlessabyss:ambient/end/mood/reverse",
+        "volume": 0.3
+      }
+    ]
+  },
+  "block.arcanized_shudder_trunk.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.arcanized_shudder_trunk.fall": {
+    "sounds": [
+      "endlessabyss:block/arcanized_shudder_trunk/step1",
+      "endlessabyss:block/arcanized_shudder_trunk/step2",
+      "endlessabyss:block/arcanized_shudder_trunk/step3",
+      "endlessabyss:block/arcanized_shudder_trunk/step4"
+    ]
+  },
+  "block.arcanized_shudder_trunk.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/arcanized_shudder_trunk/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.arcanized_shudder_trunk.place": {
+    "sounds": [
+      "endlessabyss:block/arcanized_shudder_trunk/break1",
+      "endlessabyss:block/arcanized_shudder_trunk/break2",
+      "endlessabyss:block/arcanized_shudder_trunk/break3",
+      "endlessabyss:block/arcanized_shudder_trunk/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.arcanized_shudder_trunk.step": {
+    "sounds": [
+      "endlessabyss:block/arcanized_shudder_trunk/step1",
+      "endlessabyss:block/arcanized_shudder_trunk/step2",
+      "endlessabyss:block/arcanized_shudder_trunk/step3",
+      "endlessabyss:block/arcanized_shudder_trunk/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.archea_bricks.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/archea_bricks/place1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/place2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/place3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/place4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.archea_bricks.fall": {
+    "sounds": [
+      "endlessabyss:block/archea_bricks/step1",
+      "endlessabyss:block/archea_bricks/step2",
+      "endlessabyss:block/archea_bricks/step3",
+      "endlessabyss:block/archea_bricks/step4"
+    ]
+  },
+  "block.archea_bricks.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/archea_bricks/step1",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/step2",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/step3",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/archea_bricks/step4",
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.archea_bricks.place": {
+    "sounds": [
+      "endlessabyss:block/archea_bricks/place1",
+      "endlessabyss:block/archea_bricks/place2",
+      "endlessabyss:block/archea_bricks/place3",
+      "endlessabyss:block/archea_bricks/place4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.archea_bricks.step": {
+    "sounds": [
+      "endlessabyss:block/archea_bricks/step1",
+      "endlessabyss:block/archea_bricks/step2",
+      "endlessabyss:block/archea_bricks/step3",
+      "endlessabyss:block/archea_bricks/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.archea_door.open": {
+    "sounds": [
+      "endlessabyss:block/archea_door/open1",
+      "endlessabyss:block/archea_door/open2"
+    ],
+    "subtitle": "subtitles.block.archea_door.open"
+  },
+  "block.beltstone.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/beltstone/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.beltstone.fall": {
+    "sounds": [
+      "endlessabyss:block/beltstone/step1",
+      "endlessabyss:block/beltstone/step2",
+      "endlessabyss:block/beltstone/step3",
+      "endlessabyss:block/beltstone/step4"
+    ]
+  },
+  "block.beltstone.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/beltstone/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.beltstone.place": {
+    "sounds": [
+      "endlessabyss:block/beltstone/break1",
+      "endlessabyss:block/beltstone/break2",
+      "endlessabyss:block/beltstone/break3",
+      "endlessabyss:block/beltstone/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.beltstone.step": {
+    "sounds": [
+      "endlessabyss:block/beltstone/step1",
+      "endlessabyss:block/beltstone/step2",
+      "endlessabyss:block/beltstone/step3",
+      "endlessabyss:block/beltstone/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.beltstone_bricks.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/beltstone_bricks/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.beltstone_bricks.fall": {
+    "sounds": [
+      "endlessabyss:block/beltstone_bricks/step1",
+      "endlessabyss:block/beltstone_bricks/step2",
+      "endlessabyss:block/beltstone_bricks/step3",
+      "endlessabyss:block/beltstone_bricks/step4"
+    ]
+  },
+  "block.beltstone_bricks.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/beltstone_bricks/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/beltstone_bricks/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.beltstone_bricks.place": {
+    "sounds": [
+      "endlessabyss:block/beltstone_bricks/break1",
+      "endlessabyss:block/beltstone_bricks/break2",
+      "endlessabyss:block/beltstone_bricks/break3",
+      "endlessabyss:block/beltstone_bricks/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.beltstone_bricks.step": {
+    "sounds": [
+      "endlessabyss:block/beltstone_bricks/step1",
+      "endlessabyss:block/beltstone_bricks/step2",
+      "endlessabyss:block/beltstone_bricks/step3",
+      "endlessabyss:block/beltstone_bricks/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.charge_spore.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/charge_spore/break1",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break2",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break3",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break4",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.charge_spore.fall": {
+    "sounds": [
+      "endlessabyss:block/charge_spore/break1",
+      "endlessabyss:block/charge_spore/break2",
+      "endlessabyss:block/charge_spore/break3",
+      "endlessabyss:block/charge_spore/break4"
+    ]
+  },
+  "block.charge_spore.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/charge_spore/break1",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break2",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break3",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break4",
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.charge_spore.place": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/charge_spore/break1",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break2",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break3",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/charge_spore/break4",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.charge_spore.step": {
+    "sounds": [
+      "endlessabyss:block/charge_spore/break1",
+      "endlessabyss:block/charge_spore/break2",
+      "endlessabyss:block/charge_spore/break3",
+      "endlessabyss:block/charge_spore/break4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.charge_stem.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/charge_stem/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.charge_stem.fall": {
+    "sounds": [
+      "endlessabyss:block/charge_stem/step1",
+      "endlessabyss:block/charge_stem/step2",
+      "endlessabyss:block/charge_stem/step3",
+      "endlessabyss:block/charge_stem/step4"
+    ]
+  },
+  "block.charge_stem.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/charge_stem/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/charge_stem/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.charge_stem.place": {
+    "sounds": [
+      "endlessabyss:block/charge_stem/break1",
+      "endlessabyss:block/charge_stem/break2",
+      "endlessabyss:block/charge_stem/break3",
+      "endlessabyss:block/charge_stem/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.charge_stem.step": {
+    "sounds": [
+      "endlessabyss:block/charge_stem/step1",
+      "endlessabyss:block/charge_stem/step2",
+      "endlessabyss:block/charge_stem/step3",
+      "endlessabyss:block/charge_stem/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.dry_brush.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/dry_brush/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dry_brush.fall": {
+    "sounds": [
+      "endlessabyss:block/dry_brush/step1",
+      "endlessabyss:block/dry_brush/step2",
+      "endlessabyss:block/dry_brush/step3",
+      "endlessabyss:block/dry_brush/step4"
+    ]
+  },
+  "block.dry_brush.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/dry_brush/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/dry_brush/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dry_brush.place": {
+    "sounds": [
+      "endlessabyss:block/dry_brush/break1",
+      "endlessabyss:block/dry_brush/break2",
+      "endlessabyss:block/dry_brush/break3",
+      "endlessabyss:block/dry_brush/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dry_brush.step": {
+    "sounds": [
+      "endlessabyss:block/dry_brush/step1",
+      "endlessabyss:block/dry_brush/step2",
+      "endlessabyss:block/dry_brush/step3",
+      "endlessabyss:block/dry_brush/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.pillowed_regolith.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/pillowed_regolith/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.pillowed_regolith.fall": {
+    "sounds": [
+      "endlessabyss:block/pillowed_regolith/step1",
+      "endlessabyss:block/pillowed_regolith/step2",
+      "endlessabyss:block/pillowed_regolith/step3",
+      "endlessabyss:block/pillowed_regolith/step4"
+    ]
+  },
+  "block.pillowed_regolith.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/pillowed_regolith/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/pillowed_regolith/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.pillowed_regolith.place": {
+    "sounds": [
+      "endlessabyss:block/pillowed_regolith/break1",
+      "endlessabyss:block/pillowed_regolith/break2",
+      "endlessabyss:block/pillowed_regolith/break3",
+      "endlessabyss:block/pillowed_regolith/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.pillowed_regolith.step": {
+    "sounds": [
+      "endlessabyss:block/pillowed_regolith/step1",
+      "endlessabyss:block/pillowed_regolith/step2",
+      "endlessabyss:block/pillowed_regolith/step3",
+      "endlessabyss:block/pillowed_regolith/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.purpur.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/purpur/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/purpur/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/purpur/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/purpur/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.purpur.fall": {
+    "sounds": [
+      "endlessabyss:block/purpur/step1",
+      "endlessabyss:block/purpur/step2",
+      "endlessabyss:block/purpur/step3",
+      "endlessabyss:block/purpur/step4"
+    ]
+  },
+  "block.purpur.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/purpur/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/purpur/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/purpur/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/purpur/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.purpur.place": {
+    "sounds": [
+      "endlessabyss:block/purpur/break1",
+      "endlessabyss:block/purpur/break2",
+      "endlessabyss:block/purpur/break3",
+      "endlessabyss:block/purpur/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.purpur.step": {
+    "sounds": [
+      "endlessabyss:block/purpur/step1",
+      "endlessabyss:block/purpur/step2",
+      "endlessabyss:block/purpur/step3",
+      "endlessabyss:block/purpur/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.regolith.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/regolith/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/regolith/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/regolith/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/regolith/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.regolith.fall": {
+    "sounds": [
+      "endlessabyss:block/regolith/step1",
+      "endlessabyss:block/regolith/step2",
+      "endlessabyss:block/regolith/step3",
+      "endlessabyss:block/regolith/step4"
+    ]
+  },
+  "block.regolith.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/regolith/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/regolith/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/regolith/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/regolith/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.regolith.place": {
+    "sounds": [
+      "endlessabyss:block/regolith/break1",
+      "endlessabyss:block/regolith/break2",
+      "endlessabyss:block/regolith/break3",
+      "endlessabyss:block/regolith/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.regolith.step": {
+    "sounds": [
+      "endlessabyss:block/regolith/step1",
+      "endlessabyss:block/regolith/step2",
+      "endlessabyss:block/regolith/step3",
+      "endlessabyss:block/regolith/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.shudder_trunk.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/shudder_trunk/break1",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/break2",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/break3",
+        "pitch": 0.9
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/break4",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.shudder_trunk.fall": {
+    "sounds": [
+      "endlessabyss:block/shudder_trunk/step1",
+      "endlessabyss:block/shudder_trunk/step2",
+      "endlessabyss:block/shudder_trunk/step3",
+      "endlessabyss:block/shudder_trunk/step4"
+    ]
+  },
+  "block.shudder_trunk.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/shudder_trunk/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/shudder_trunk/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.shudder_trunk.place": {
+    "sounds": [
+      "endlessabyss:block/shudder_trunk/break1",
+      "endlessabyss:block/shudder_trunk/break2",
+      "endlessabyss:block/shudder_trunk/break3",
+      "endlessabyss:block/shudder_trunk/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.shudder_trunk.step": {
+    "sounds": [
+      "endlessabyss:block/shudder_trunk/step1",
+      "endlessabyss:block/shudder_trunk/step2",
+      "endlessabyss:block/shudder_trunk/step3",
+      "endlessabyss:block/shudder_trunk/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.shudder_vines.shudder": {
+    "sounds": [
+      "endlessabyss:block/shudder_vines/shudder1",
+      "endlessabyss:block/shudder_vines/shudder2"
+    ],
+    "subtitle": "subtitles.block.shudder_vines.shudder"
+  },
+  "block.tenium.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium/break1",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break2",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break3",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break4",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.tenium.fall": {
+    "sounds": [
+      "endlessabyss:block/tenium/step1",
+      "endlessabyss:block/tenium/step2",
+      "endlessabyss:block/tenium/step3",
+      "endlessabyss:block/tenium/step4"
+    ]
+  },
+  "block.tenium.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium/step1",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/tenium/step2",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/tenium/step3",
+        "pitch": 0.5
+      },
+      {
+        "name": "endlessabyss:block/tenium/step4",
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.tenium.place": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium/break1",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break2",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break3",
+        "pitch": 0.8
+      },
+      {
+        "name": "endlessabyss:block/tenium/break4",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.tenium.step": {
+    "sounds": [
+      "endlessabyss:block/tenium/step1",
+      "endlessabyss:block/tenium/step2",
+      "endlessabyss:block/tenium/step3",
+      "endlessabyss:block/tenium/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.tenium_sand.break": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium_sand/break1",
+        "pitch": 1.2
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break2",
+        "pitch": 1.2
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break3",
+        "pitch": 1.2
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break4",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.tenium_sand.fall": {
+    "sounds": [
+      "endlessabyss:block/tenium_sand/step1",
+      "endlessabyss:block/tenium_sand/step2",
+      "endlessabyss:block/tenium_sand/step3",
+      "endlessabyss:block/tenium_sand/step4"
+    ]
+  },
+  "block.tenium_sand.hit": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium_sand/step1",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/step2",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/step3",
+        "pitch": 0.75
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/step4",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.tenium_sand.place": {
+    "sounds": [
+      {
+        "name": "endlessabyss:block/tenium_sand/break1",
+        "pitch": 1.3
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break2",
+        "pitch": 1.3
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break3",
+        "pitch": 1.3
+      },
+      {
+        "name": "endlessabyss:block/tenium_sand/break4",
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.tenium_sand.step": {
+    "sounds": [
+      "endlessabyss:block/tenium_sand/step1",
+      "endlessabyss:block/tenium_sand/step2",
+      "endlessabyss:block/tenium_sand/step3",
+      "endlessabyss:block/tenium_sand/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.time_gate.insert_shrieking_eye": {
+    "sounds": [
+      "endlessabyss:block/time_gate/insert_shrieking_eye"
+    ],
+    "subtitle": "subtitles.block.time_gate.insert_shrieking_eye"
+  },
+  "entity.plupper.ambient": {
+    "sounds": [
+      "endlessabyss:entity/plupper/ambient1",
+      "endlessabyss:entity/plupper/ambient2",
+      "endlessabyss:entity/plupper/ambient3"
+    ],
+    "subtitle": "subtitles.entity.plupper.ambient"
+  },
+  "entity.plupper.dead": {
+    "sounds": [
+      "endlessabyss:entity/plupper/hurt1",
+      "endlessabyss:entity/plupper/hurt2"
+    ],
+    "subtitle": "subtitles.entity.plupper.dead"
+  },
+  "entity.plupper.hurt": {
+    "sounds": [
+      "endlessabyss:entity/plupper/hurt1",
+      "endlessabyss:entity/plupper/hurt2"
+    ],
+    "subtitle": "subtitles.entity.plupper.hurt"
+  },
+  "entity.sirroco.ambient": {
+    "sounds": [
+      "endlessabyss:entity/sirroco/ambient1",
+      "endlessabyss:entity/sirroco/ambient2",
+      "endlessabyss:entity/sirroco/ambient3",
+      "endlessabyss:entity/sirroco/ambient4"
+    ],
+    "subtitle": "subtitles.entity.sirroco.ambient"
+  },
+  "entity.sirroco.dead": {
+    "sounds": [
+      "endlessabyss:entity/sirroco/dead1",
+      "endlessabyss:entity/sirroco/dead2"
+    ],
+    "subtitle": "subtitles.entity.sirroco.dead"
+  },
+  "entity.sirroco.hurt": {
+    "sounds": [
+      "endlessabyss:entity/sirroco/hurt1",
+      "endlessabyss:entity/sirroco/hurt2",
+      "endlessabyss:entity/sirroco/hurt3",
+      "endlessabyss:entity/sirroco/hurt4"
+    ],
+    "subtitle": "subtitles.entity.sirroco.hurt"
+  },
+  "item_byproduct_infest": {
+    "sounds": [
+      "endlessabyss:item/byproduct/infest1",
+      "endlessabyss:item/byproduct/infest2"
+    ],
+    "subtitle": "subtitles.item.byproduct.infest"
+  },
+  "item_hardened_sirroco_chop_eat": {
+    "sounds": [
+      "endlessabyss:item/hardened_sirroco_chop/eat1",
+      "endlessabyss:item/hardened_sirroco_chop/eat2",
+      "endlessabyss:item/hardened_sirroco_chop/eat3"
+    ],
+    "subtitle": "subtitles.entity.generic.eat"
+  }
+}

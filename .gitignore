@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Archives
+Archive.zip
+
+# Backup files
+*.bak
+*.swp
